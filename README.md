@@ -8,4 +8,4 @@
   <li>.gitignore ir README failai</li>
 </ul>
 
-<p><strong>Autorius:</strong> Gerim</p>
+<p><strong>Autorius:</strong> Gerimantas</p>
